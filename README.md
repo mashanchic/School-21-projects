@@ -1,6 +1,4 @@
 # School-21-projects
-## Projects
-
 Проекты, выполненные в рамках обучения в Школе 21.
 ## ML Projects
 | Проект       | Описание          | Ссылка |
@@ -11,3 +9,10 @@
 |**ML.Project_4**|	Введение в классификационные алгоритмы: Logistic Regression, Naive Bayes и KNN. Работа с метриками качества на задаче предсказания качества автомобилей.||
 
 ## Data Science Projects
+
+| Проект | Описание | Ссылка |
+| :--- | :--- | :--- |
+|**DS_Project 1**| **Изучение Pandas** - Первичный анализ данных и работа с таблицами |https://github.com/mashanchic/School-21-projects/tree/main/Data%20Science/DS_Project%201|
+|**DS_Project 2**|  **Работа с SQL** - SQLite3 и написание SQL-запросов|https://github.com/mashanchic/School-21-projects/tree/main/Data%20Science/DS_Project%202| 
+|**DS_Project 3**|  **Визуализация данных** - Построение графиков с matplotlib|https://github.com/mashanchic/School-21-projects/tree/main/Data%20Science/DS_Project%203|
+|**DS_Project 4**|  **Введение в Machine Learning** - Базовые задачи машинного обучения на Python|https://github.com/mashanchic/School-21-projects/tree/main/Data%20Science/DS_Project%204|
